@@ -34,7 +34,7 @@ The current iteration establishes a **robust graphical core**, leveraging bleedi
 
 ## 📸 Screenshot
 
-![P3B-CORE Screenshot](public/p3b-core_screenshot.png)
+![P3B-CORE Screenshot](p3b-core/public/p3b-core_screenshot.png)
 
 ---
 
