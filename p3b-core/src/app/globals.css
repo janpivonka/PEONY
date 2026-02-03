@@ -1,24 +1,27 @@
 @import "tailwindcss";
 
 @theme {
-  /* Definice tvých PS3B barev */
   --color-peony-base: #FF6AC1;
   --color-peony-glow: #ff85cf;
   --color-sakura-base: #A29BFE;
   --color-boost-neon: #00B894;
   --color-space-black: #050505;
-
-  /* Přidáme tvůj třpytivý efekt pro text */
   --drop-shadow-peony: 0 0 15px rgba(255, 106, 193, 0.5);
 }
 
 :root {
   background: var(--color-space-black);
   color: white;
+  /* Vynutíme základní velikost, aby rem jednotky byly stabilní */
+  font-size: 16px;
 }
 
 body {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  /* Fix pro mobilní prohlížeče a Vercel */
+  height: 100vh;
+  height: 100dvh;
+  width: 100vw;
 }
