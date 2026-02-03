@@ -26,12 +26,6 @@ The current iteration establishes a **robust graphical core**, leveraging bleedi
 
 ---
 
-## 🎥 Video Tour
-
-👉 https://drive.google.com/file/d/1DLYj-SKN2XSZzYaHRvYeYRVkeQGHnNik/view?usp=drive_link
-
----
-
 ## 📸 Screenshot
 
 ![P3B-CORE Screenshot](p3b-core/public/p3b-core_screenshot.png)
